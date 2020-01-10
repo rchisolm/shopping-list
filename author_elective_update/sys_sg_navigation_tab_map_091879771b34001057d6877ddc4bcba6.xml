@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="DELETE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="Shopping List">0d1879f31b34001057d6877ddc4bcbbf</navigation_tab>
+        <order>9300</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 18:07:24</sys_created_on>
+        <sys_id>091879771b34001057d6877ddc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_174457_shopping">3ed4b1771bf0001057d6877ddc4bcbaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">3ed4b1771bf0001057d6877ddc4bcbaf</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_091879771b34001057d6877ddc4bcba6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-05 18:07:24</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">3ed4b1771bf0001057d6877ddc4bcbaf</application>
+        <file_path/>
+        <instance_id>be582d67db767f04b847ac44d4961959</instance_id>
+        <instance_name>dev89463</instance_name>
+        <name>sys_sg_navigation_tab_map_091879771b34001057d6877ddc4bcba6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map"><sys_sg_navigation_tab_map action="INSERT_OR_UPDATE"><navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation><navigation_tab display_value="Shopping List">0d1879f31b34001057d6877ddc4bcbbf</navigation_tab><order>9300</order><sys_class_name>sys_sg_navigation_tab_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-05 18:07:24</sys_created_on><sys_id>091879771b34001057d6877ddc4bcba6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Shopping List" source="x_174457_shopping">3ed4b1771bf0001057d6877ddc4bcbaf</sys_package><sys_policy/><sys_scope display_value="Shopping List">3ed4b1771bf0001057d6877ddc4bcbaf</sys_scope><sys_update_name>sys_sg_navigation_tab_map_091879771b34001057d6877ddc4bcba6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-05 18:07:24</sys_updated_on></sys_sg_navigation_tab_map></record_update>]]></payload>
+        <payload_hash>-515773972</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>32d4b1771bf0001057d6877ddc4bcbb2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 18:07:24</sys_created_on>
+        <sys_id>0d1879771b34001057d6877ddc4bcba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e3cbffa280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-05 18:07:24</sys_updated_on>
+        <type>Navigation Tab Map</type>
+        <update_guid>85187977ae3400105ac88678084b8ba9</update_guid>
+        <update_guid_history>85187977ae3400105ac88678084b8ba9:-515773972</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 18:05:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_tab_map">sys_sg_navigation_tab_map</sys_db_object>
+        <sys_id>15db792a5f0a44d0a524f3e99cfa4100</sys_id>
+        <sys_metadata>091879771b34001057d6877ddc4bcba6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_174457_shopping">3ed4b1771bf0001057d6877ddc4bcbaf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">3ed4b1771bf0001057d6877ddc4bcbaf</sys_scope>
+        <sys_scope_delete display_value="">70ea5b162e2f4ae8b510ce4353a53a10</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_tab_map_091879771b34001057d6877ddc4bcba6</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_tab_map_091879771b34001057d6877ddc4bcba6">0d1879771b34001057d6877ddc4bcba9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-10 18:05:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
